@@ -1,0 +1,14 @@
+C:\Users\EKURTAGHA\Projects\C#automationAPI\APITest\obj\Debug\net8.0\APITest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKURTAGHA\Projects\C#automationAPI\APITest\obj\Debug\net8.0\APITest.AssemblyInfoInputs.cache
+C:\Users\EKURTAGHA\Projects\C#automationAPI\APITest\obj\Debug\net8.0\APITest.AssemblyInfo.cs
+C:\Users\EKURTAGHA\Projects\C#automationAPI\APITest\obj\Debug\net8.0\APITest.csproj.CoreCompileInputs.cache
+C:\Users\EKURTAGHA\Projects\C#automationAPI\APITest\bin\Debug\net8.0\APITest.exe
+C:\Users\EKURTAGHA\Projects\C#automationAPI\APITest\bin\Debug\net8.0\APITest.deps.json
+C:\Users\EKURTAGHA\Projects\C#automationAPI\APITest\bin\Debug\net8.0\APITest.runtimeconfig.json
+C:\Users\EKURTAGHA\Projects\C#automationAPI\APITest\bin\Debug\net8.0\APITest.dll
+C:\Users\EKURTAGHA\Projects\C#automationAPI\APITest\bin\Debug\net8.0\APITest.pdb
+C:\Users\EKURTAGHA\Projects\C#automationAPI\APITest\obj\Debug\net8.0\APITest.dll
+C:\Users\EKURTAGHA\Projects\C#automationAPI\APITest\obj\Debug\net8.0\refint\APITest.dll
+C:\Users\EKURTAGHA\Projects\C#automationAPI\APITest\obj\Debug\net8.0\APITest.pdb
+C:\Users\EKURTAGHA\Projects\C#automationAPI\APITest\obj\Debug\net8.0\APITest.genruntimeconfig.cache
+C:\Users\EKURTAGHA\Projects\C#automationAPI\APITest\obj\Debug\net8.0\ref\APITest.dll
